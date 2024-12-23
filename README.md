@@ -6,3 +6,7 @@ This project contains a simply python script to change file extension from .jpeg
 Pillow module
 
 `pip install pillow`
+
+## Two methods:
+
+I accomplished this task in two ways
